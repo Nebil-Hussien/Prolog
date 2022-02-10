@@ -1,0 +1,11 @@
+cause(tb,pulmonary).
+cause(tb,cns).
+symptom(breathlessness,pulmonary).
+symptom(wieghtloss,pulmonary).
+symptom(lackofapetite,pulmonary).
+symptom(hightemp,pulmonary).
+symptom(extremtirdeness,pulmonary).
+symptom(headache,cns).
+symptom(stiffneck,cns).
+symptom(confusion,cns).
+symptom(bluredvission,cns).
